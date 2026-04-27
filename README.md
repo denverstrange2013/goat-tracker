@@ -35,7 +35,7 @@ This project expands on that idea by explicitly showing where a given performanc
 
 ## Screenshot Example
 
-![EA Sports Comparison](Screenshot(410).png)
+![EA Sports Comparison](ea_screenshot.png)
 
 ---
 
