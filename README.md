@@ -43,7 +43,6 @@ This project expands on that idea by explicitly showing where a given performanc
 
 #include <iostream>
 using namespace std; 
-
 int main()
 { 
     int yards;
@@ -189,6 +188,3 @@ int main()
 
     return 0;
 }
-
-```cpp
-// paste your full C++ code here
