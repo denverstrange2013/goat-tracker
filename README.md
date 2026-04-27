@@ -42,7 +42,8 @@ This project expands on that idea by explicitly showing where a given performanc
 ## Code
 
 #include <iostream>
-using namespace std; 
+using namespace std;
+
 int main()
 { 
     int yards;
