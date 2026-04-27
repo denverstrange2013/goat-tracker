@@ -25,7 +25,7 @@ The demo shows how the program responds to different inputs:
 
 ## Real-World Comparison
 
-Modern sports games such as EA Sports College Football 25 often display record-breaking achievements, but typically only highlight milestone records (such as first place) rather than showing full movement within the record rankings.
+Modern sports games such as EA Sports College Football 26 often display record-breaking achievements, but typically only highlight milestone records (such as first place) rather than showing full movement within the record rankings.
 
 They also do not provide detailed breakdowns of how a performance compares to other historical results.
 
